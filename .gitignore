@@ -1,0 +1,4 @@
+node_modules
+/app1/package-lock.json
+/app2/package-lock.json
+data
